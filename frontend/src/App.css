@@ -1,0 +1,50 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 50px;
+  /* Change the size as needed */
+}
+.custom-checkbox input[type="checkbox"] + label {
+  border: none;
+}
+.password-input input {
+  font-weight: normal; /* Set the font-weight to normal or your desired value */
+}
+
+
+
+
+
+
+.App-header {
+  background-color: #007BFF;
+  /* Change to a different background color */
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 24px;
+  /* Change the font size */
+  color: #fff;
+  /* Change text color to white */
+}
+
+.App-link {
+  color: #007BFF;
+  /* Change link text color */
+}
+
+table {
+  border-collapse: collapse;
+  /* Change to 'separate' if needed */
+  border-spacing: 10px 0;
+  /* Change spacing as needed */
+}
+
+td {
+  padding: 15px 0;
+  /* Adjust cell padding */
+}
